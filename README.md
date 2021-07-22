@@ -2,3 +2,4 @@
 Ejemplo de creación de un repositorio
 Este es un cambio realizado en terminal
 este es otro cambio realizado en terminal
+Agrego esta linea de texto desde el editor en linea para hacer un Push desde gitBash
